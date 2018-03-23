@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 990">
-	<title>The titlepage for the Standard Ebooks edition of The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar, by Maurice Leblanc. Translated by George Morehead</title>
+	<title>The titlepage for the Standard Ebooks edition of The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar, by Maurice Leblanc. Translated by George Morehead</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -29,7 +29,7 @@
 	</style>
 	<text class="title" x="700" y="130">THE EXTRAORDINARY</text>
 	<text class="title" x="700" y="230">ADVENTURES</text>
-	<text class="title" x="700" y="330">OF ARSENE LUPIN,</text>
+	<text class="title" x="700" y="330">OF ARSÈNE LUPIN,</text>
 	<text class="title" x="700" y="430">GENTLEMAN-BURGLAR</text>
 	<text class="title" x="700" y="530"></text>
 	<text class="author" x="700" y="690">MAURICE LEBLANC</text>
