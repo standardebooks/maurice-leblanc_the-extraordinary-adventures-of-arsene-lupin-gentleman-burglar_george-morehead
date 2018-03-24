@@ -28,11 +28,10 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">THE EXTRAORDINARY</text>
-	<text class="title" x="700" y="230">ADVENTURES</text>
-	<text class="title" x="700" y="330">OF ARSÈNE LUPIN,</text>
-	<text class="title" x="700" y="430">GENTLEMAN-BURGLAR</text>
-	<text class="title" x="700" y="530"></text>
-	<text class="author" x="700" y="690">MAURICE LEBLANC</text>
+	<text class="title" x="700" y="240">ADVENTURES OF</text>
+	<text class="title" x="700" y="350">ARSÈNE LUPIN,</text>
+	<text class="title" x="700" y="460">GENTLEMAN-BURGLAR</text>
+	<text class="author" x="700" y="700">MAURICE LEBLANC</text>
 	<text class="contributor-descriptor" x="700" y="880">translated by</text>
 	<text class="contributor" x="700" y="940">GEORGE MOREHEAD</text>
 </svg>
