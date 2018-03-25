@@ -21,6 +21,10 @@ blockquote header{
 	margin-bottom: 1em;
 }
 
+blockquote header p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 }
