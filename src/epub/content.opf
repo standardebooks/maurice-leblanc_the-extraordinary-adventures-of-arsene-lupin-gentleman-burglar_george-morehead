@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar</dc:title>
 		<meta property="file-as" refines="#title">Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar, The</meta>
 		<dc:subject id="subject-1">Short stories</dc:subject>
@@ -34,22 +34,25 @@
 		<dc:subject id="subject-3">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Adventure stories, French -- Translations into English</dc:subject>
 		<dc:subject id="subject-5">Mystery and detective stories</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/6133</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/6133</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/6133</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/6133</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/6133</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85121813</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2009117895</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2010100204</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<meta property="se:collection">Sherlock Holmes</meta>
 		<dc:description id="description">An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Arsène Lupin, with his characteristic wit, plots over the course of nine short stories to steal many of France’s best antiques and artworks from under their owners’ noses. Only his classic opponent Detective Ganimard has the brilliance to attempt to foil Arsène’s plans, albeit with mixed results.&lt;/p&gt;
 			&lt;p&gt;This first collection of nine Arsène Lupin stories were originally serialised in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1905 and translated into English in 1910. The final story of the set features an unauthorised Sherlock Holmes whose appearance annoyed Arthur Conan-Doyle; the character’s name was changed to “Herlock Sholmes” for later stories. Arsène Lupin later went on to feature in over fifty stories by Maurice Leblanc along with many other books, films and plays around the world.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6133</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100554067</dc:source>
