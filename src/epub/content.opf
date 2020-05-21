@@ -48,8 +48,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="belongs-to-collection" id="collection-2">Sherlock Holmes</meta>
-		<meta property="collection-type" refines="#collection-2">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt;, with his characteristic wit, plots over the course of nine short stories to steal many of France’s best antiques and artworks from under their owners’ noses. Only his classic opponent Detective Ganimard has the brilliance to attempt to foil Arsène’s plans, albeit with mixed results.&lt;/p&gt;
