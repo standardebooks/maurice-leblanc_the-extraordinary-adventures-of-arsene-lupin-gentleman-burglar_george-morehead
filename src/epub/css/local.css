@@ -10,11 +10,6 @@ footer{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 blockquote header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
