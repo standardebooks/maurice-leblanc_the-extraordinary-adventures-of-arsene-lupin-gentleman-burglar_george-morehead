@@ -58,6 +58,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6133</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100554067</dc:source>
+		<meta property="se:production-notes">The stories are marked as chapters and not short stories because they follow a narrative sequence.</meta>
 		<meta property="se:word-count">54176</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ars%C3%A8ne_Lupin,_Gentleman_Burglar</meta>
