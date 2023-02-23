@@ -70,7 +70,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Morehead</dc:contributor>
 		<meta property="file-as" refines="#translator">Morehead, George</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Édouard Manet</dc:contributor>
 		<meta property="file-as" refines="#artist">Manet, Édouard</meta>
