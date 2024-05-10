@@ -61,7 +61,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100554067</dc:source>
 		<meta property="se:production-notes">The stories are marked as chapters and not short stories because they follow a narrative sequence. The character "Sherlock Holmes" has been renamed to "Herlock Sholmes" to match other Standard Ebooks in the Lupin series. Some references in other stores to "fictional detective Sherlock Holmes" have been left unchanged.</meta>
 		<meta property="se:word-count">54189</meta>
-		<meta property="se:reading-ease.flesch">74.39</meta>
+		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ars%C3%A8ne_Lupin,_Gentleman_Burglar</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar_george-morehead</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
