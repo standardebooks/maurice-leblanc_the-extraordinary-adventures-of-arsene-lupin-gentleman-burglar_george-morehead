@@ -33,3 +33,7 @@ blockquote header p,
 [epub|type~="z3998:recipient"] + p{
 	text-indent: 0;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
