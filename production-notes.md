@@ -1,0 +1,1 @@
+The stories are marked as chapters and not short stories because they follow a narrative sequence. The character "Sherlock Holmes" has been renamed to "Herlock Sholmes" to match other Standard Ebooks in the Lupin series. Some references in other stores to "fictional detective Sherlock Holmes" have been left unchanged.
