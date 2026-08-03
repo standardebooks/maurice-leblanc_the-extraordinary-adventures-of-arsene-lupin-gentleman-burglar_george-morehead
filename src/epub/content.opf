@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead</dc:identifier>
 		<dc:date>2018-03-27T23:44:46Z</dc:date>
@@ -53,11 +53,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt;, with his characteristic wit, plots over the course of nine short stories to steal many of France’s best antiques and artworks from under their owners’ noses. Only his classic opponent Detective Ganimard has the brilliance to attempt to foil Arsène’s plans, albeit with mixed results.&lt;/p&gt;
 			&lt;p&gt;This first collection of nine Arsène Lupin stories were originally serialised in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1905 and translated into English in 1910. The final story of the set features Herlock Sholmes. In the original printings, Sholmes was simply an unauthorized &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt;, but this appearance annoyed &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt;; the character’s name was changed to “Herlock Sholmes” for later printings and future stories. Arsène Lupin later went on to feature in over fifty stories by &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc&lt;/a&gt; along with many other books, films and plays around the world.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6133</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100554067</dc:source>
